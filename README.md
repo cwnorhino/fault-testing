@@ -17,6 +17,6 @@ iverilog -g2012 -o fault_adder.v tb_fault_adder.v
 vvp fault_test
 gtkwave fault_adder.vcd
 
-'''
+```
 
 
